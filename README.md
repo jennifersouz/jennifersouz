@@ -12,11 +12,11 @@
 
 ### 🙋‍♀️ About Me
 
-* 🎓 3rd year **Computer Science** student focused on **backend engineering**
+* 🎓 6rd sem **Computer Science** student focused on **backend engineering**
 * 🔧 Building scalable applications with **Spring Boot** and **ASP.NET Core**
 * ⚙️ Interested in **system design, APIs, and microservices**
 * 🤝 Open to **internships**, **collaborations**, and **open source**
-* 🎨 I paint watercolors — turns out debugging and painting both require patience
+* 🎨 I paint watercolors, turns out debugging and painting both require patience
 
 ---
 
@@ -46,17 +46,6 @@
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jennifersouz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifersouz&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
 
 ### 📫 Let's Connect
 

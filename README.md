@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jennifer 👋</h1>
 
 <p align="center">
-  💻 Full-Stack Developer (Java / .NET) &nbsp;|&nbsp; 🎓 CS Student &nbsp;|&nbsp; ☁️ Cloud & AI Enthusiast
+  💻 Full-Stack Developer &nbsp;|&nbsp; 🎓 CS Student &nbsp;|&nbsp; ☁️ Cloud & AI Enthusiast
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 ### 🙋‍♀️ About Me
 
 * 🎓 6rd sem **Computer Science** student focused on **backend engineering**
-* 🔧 Building scalable applications with **Spring Boot** and **ASP.NET Core**
+* 🔧 Building applications with **Spring Boot** and **ASP.NET Core**
 * ⚙️ Interested in **system design, APIs, and microservices**
-* 🤝 Open to **internships**, **collaborations**, and **open source**
-* 🎨 I paint watercolors, turns out debugging and painting both require patience
+* 🤝 Open to **internships**
+* 🎨 Fun fact: I paint watercolors, turns out debugging and painting both require patience
 
 ---
 

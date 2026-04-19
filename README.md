@@ -3,21 +3,11 @@
 <p align="center">
   💻 Full-Stack Developer &nbsp;|&nbsp; 🎓 CS Student &nbsp;|&nbsp; ☁️ Cloud & AI Enthusiast
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jennifersouz&color=blue&style=flat-square" alt="profile views" />
-</p>
-
 ---
 
-### 🙋‍♀️ About Me
+### About Me
 
 * 🎓 6rd sem **Computer Science** student focused on **backend engineering**
-* 🔧 Building applications with **Spring Boot** and **ASP.NET Core**
-* ⚙️ Interested in **system design, APIs, and microservices**
-* 🤝 Open to **internships**
-* 🎨 Fun fact: I paint watercolors, turns out debugging and painting both require patience
-
 ---
 
 ### 🛠️ Tech Stack
@@ -62,4 +52,8 @@
 
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jennifersouz&color=blue&style=flat-square" alt="profile views" />
 </p>

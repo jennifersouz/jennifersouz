@@ -3,7 +3,6 @@
 <p align="center">
   💻 Full-Stack Developer &nbsp;|&nbsp; 🎓 CS Student &nbsp;|&nbsp; ☁️ Cloud & AI Enthusiast
 </p>
----
 
 ### About Me
 

@@ -4,9 +4,6 @@
   💻 Full-Stack Developer &nbsp;|&nbsp; 🎓 CS Student &nbsp;|&nbsp; AI Enthusiast
 </p>
 
-### About Me
-
-* 🎓 6rd sem **Computer Science** student focused on **backend engineering**
 ---
 
 ### Tech Stack
